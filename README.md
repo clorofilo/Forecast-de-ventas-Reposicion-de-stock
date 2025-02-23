@@ -1,5 +1,3 @@
-A continuación te presento una guía completa que incluye la documentación, estructura y pasos necesarios para poner en marcha este proyecto, además de cómo añadirlo a GitHub. Puedes copiar este contenido en un archivo README.md y adaptarlo según tus necesidades.
-
 ---
 
 # Proyecto: Forecast de Ventas y Propuesta de Pedidos
@@ -154,4 +152,4 @@ El código se organiza en varias secciones:
 
 ## Licencia
 
-Este proyecto se distribuye bajo la licencia [MIT](LICENSE).  
+Este proyecto se distribuye bajo la licencia [MIT](license.txt).  
