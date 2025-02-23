@@ -15,8 +15,6 @@ Este proyecto tiene como objetivo procesar y transformar datos de Excel provenie
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Guía de Uso y Ejecución](#guía-de-uso-y-ejecución)
 - [Explicación del Código](#explicación-del-código)
-- [Añadir el Proyecto a GitHub](#añadir-el-proyecto-a-github)
-- [Contribuciones y Mejoras](#contribuciones-y-mejoras)
 - [Licencia](#licencia)
 
 ---
