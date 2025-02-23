@@ -155,5 +155,3 @@ El código se organiza en varias secciones:
 ## Licencia
 
 Este proyecto se distribuye bajo la licencia [MIT](LICENSE).  
-*Asegúrate de incluir el archivo de licencia correspondiente en tu repositorio.*
-
